@@ -1,0 +1,11 @@
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\bin\Debug\Учёт товаров.exe.config
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\bin\Debug\Учёт товаров.exe
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\bin\Debug\Учёт товаров.pdb
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт товаров.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт_товаров.Properties.Resources.resources
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт товаров.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт товаров.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт товаров.exe
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт товаров.pdb
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт_товаров.Products.resources
+C:\Users\Роман\source\repos\Учёт товаров\Учёт товаров\obj\Debug\Учёт_товаров.MainForm.resources
